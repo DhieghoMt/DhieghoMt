@@ -80,7 +80,7 @@
 <!-- ==================================================================================================================================== -->
 <h2>Proyectos </h2>
 
-[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DhieghoMt&repo=FileManager&border_color=c9c0cc&bg_color=161b22&title_color=ffffff&icon_color=c9c0cc&text_color=ffffff&border_radius=15px)](https://github.com/DhieghoMt/JDMusic)
+[![ReadMe Card](https://github-readme-stats.vercel.app/api/pin/?username=DhieghoMt&repo=JDMusic&border_color=c9c0cc&bg_color=161b22&title_color=ffffff&icon_color=c9c0cc&text_color=ffffff&border_radius=15px)](https://github.com/DhieghoMt/JDMusic)
 
 <Br>
 
@@ -88,7 +88,7 @@
 
 <h2>Mis estadísticas</h2>
 
-<p><img align="left" src="https://githubreadmestats.vercel.app/api/toplangsusername=DhieghoMt&show_icons=true&bg_color=161b22&text_color=ffffff&title_color=ffffff&border_radius=15px&locale=es&layout=compact" alt="DhieghoMt" /></p>
+<p><img align="left" src="https://githubreadmestats.vercel.app/api/toplangsusername=DhieghoMt&show_icons=true&bg_color=161b22&text_color=ffffff&title_color=ffffff&border_radius=15px&locale=es&layout=compact" alt="DhieghoMt"></p>
 
 <br><br><br><br><br><br><br><br>
 
