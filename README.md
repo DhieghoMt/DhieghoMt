@@ -88,8 +88,7 @@
 
 <h2>Mis estadísticas</h2>
 
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=DhieghoMt
-&show_icons=true&bg_color=161b22&text_color=ffffff&title_color=ffffff&border_radius=15px&locale=es&layout=compact" alt="DhieghoMt" /></p>
+<p><img align="left" src="https://githubreadmestats.vercel.app/api/toplangsusername=DhieghoMt&show_icons=true&bg_color=161b22&text_color=ffffff&title_color=ffffff&border_radius=15px&locale=es&layout=compact" alt="DhieghoMt" /></p>
 
 <br><br><br><br><br><br><br><br>
 
